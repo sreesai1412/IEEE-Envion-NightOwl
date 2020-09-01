@@ -2,7 +2,7 @@
 
 NightOwl is a web-app which aims to ease the process of ordering food from Night Canteens in NITK.
 
-Technologies Used: Django, HTML, CSS, Bootstrap, JS, jQuery, ajax, SQLite.
+Technologies Used: Django, HTML, CSS, SQLite.
 
 
 
